@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "d",
+    "coordinates": {
+      "x": 3.0,
+      "y": 4.0
+    },
+    "creationDate": "2025-02-17",
+    "area": 5.0,
+    "population": 6,
+    "metersAboveSeaLevel": 7.0,
+    "establishmentDate": "0008-08-05",
+    "government": "DIARCHY",
+    "standardOfLiving": "VERY_LOW",
+    "governor": {
+      "age": 5,
+      "height": 6,
+      "birthday": "0007-07-04"
+    }
+  }
+]

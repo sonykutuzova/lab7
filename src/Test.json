@@ -1,0 +1,62 @@
+[
+  {
+    "id": 2,
+    "name": "dddddddddddddddd",
+    "coordinates": {
+      "x": 3.0,
+      "y": 4.0
+    },
+    "creationDate": "2025-02-17",
+    "area": 5.0,
+    "population": 6,
+    "metersAboveSeaLevel": 7.0,
+    "establishmentDate": "0009-09-06",
+    "government": "TECHNOCRACY",
+    "standardOfLiving": "ULTRA_HIGH",
+    "governor": {
+      "age": 4,
+      "height": 5,
+      "birthday": "-0001-11-27"
+    }
+  },
+  {
+    "id": 3,
+    "name": "fffff",
+    "coordinates": {
+      "x": 2.0,
+      "y": 3.0
+    },
+    "creationDate": "2025-02-17",
+    "area": 4.0,
+    "population": 5,
+    "metersAboveSeaLevel": 6.0,
+    "establishmentDate": "0008-08-05",
+    "government": "DIARCHY",
+    "standardOfLiving": "VERY_LOW",
+    "governor": {
+      "age": 4,
+      "height": 5,
+      "birthday": "0048-10-12"
+    }
+  },
+  {
+    "id": 4,
+    "name": "d",
+    "coordinates": {
+      "x": 3.0,
+      "y": 4.0
+    },
+    "creationDate": "2025-02-17",
+    "area": 5.0,
+    "population": 6,
+    "metersAboveSeaLevel": 7.0,
+    "establishmentDate": "-0001-11-27",
+    "government": "DIARCHY",
+    "standardOfLiving": "ULTRA_HIGH",
+    "governor": {
+      "age": 22,
+      "height": 3,
+      "birthday": "0006-06-03"
+    }
+  }
+]
