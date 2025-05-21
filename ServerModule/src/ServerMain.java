@@ -15,7 +15,7 @@ import java.util.logging.*;
 
 public class ServerMain {
     static {
-        try (FileInputStream ins = new FileInputStream("log.config")) { // полный путь до файла с конфигами
+        try (FileInputStream ins = new FileInputStream("C:\\Users\\Sonya\\Documents\\java_learn_2\\lab7\\ServerModule\\src\\log.config")) { // полный путь до файла с конфигами
             LogManager.getLogManager().readConfiguration(ins);
         } catch (Exception ignore) {
             ignore.printStackTrace();
